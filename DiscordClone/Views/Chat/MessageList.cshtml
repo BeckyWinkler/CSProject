@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Message List";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Message List</h1>
+    <form action="/Chat/MessageList" method="POST">
+        <input type="text" id="message" name="message" />
+        <button type="submit">Send Message</button>
+    </form>
+
+</div>

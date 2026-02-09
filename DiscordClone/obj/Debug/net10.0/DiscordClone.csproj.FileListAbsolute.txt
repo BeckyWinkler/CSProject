@@ -1,0 +1,195 @@
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\appsettings.Development.json
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\appsettings.json
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\DiscordClone.staticwebassets.runtime.json
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\DiscordClone.staticwebassets.endpoints.json
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\DiscordClone.exe
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\DiscordClone.deps.json
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\DiscordClone.runtimeconfig.json
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\DiscordClone.dll
+e:\School\CSCapstone\New folder\DiscordClone\bin\Debug\net10.0\DiscordClone.pdb
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\rpswa.dswa.cache.json
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.GeneratedMSBuildEditorConfig.editorconfig
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.AssemblyInfoInputs.cache
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.AssemblyInfo.cs
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.csproj.CoreCompileInputs.cache
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.MvcApplicationPartsAssemblyInfo.cache
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.RazorAssemblyInfo.cache
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.RazorAssemblyInfo.cs
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\rjimswa.dswa.cache.json
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\scopedcss\bundle\DiscordClone.styles.css
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\scopedcss\projectbundle\DiscordClone.bundle.scp.css
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\3bgw2r2xhy-{0}-b9sayid5wm-b9sayid5wm.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\a98l2s7gio-{0}-61n19gt1b8-61n19gt1b8.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\jwaezel95b-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\hjx2nwmemv-{0}-bqjiyaj88i-bqjiyaj88i.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\f3tdgy06mm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\kg7o6p3kg8-{0}-erw9l3u2r3-erw9l3u2r3.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\rm3499gmg8-{0}-aexeepp0ev-aexeepp0ev.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\d9cdx33rtv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\3e8zah4qav-{0}-ausgxo2sd3-ausgxo2sd3.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\4j4qmqkzq4-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\dqlteplpb9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\u58thwy7jp-{0}-ub07r2b239-ub07r2b239.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\f3xzm0anpy-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\5ehlrsazf3-{0}-b7pk76d08c-b7pk76d08c.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\dw614759oh-{0}-fsbi9cje9m-fsbi9cje9m.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\f2ms5dt8f1-{0}-rzd6atqjts-rzd6atqjts.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\bi49db14dy-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\3qljxyp3rf-{0}-dxx9fxp4il-dxx9fxp4il.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\fc9q16rn19-{0}-jd9uben2k1-jd9uben2k1.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\77wwsxdam0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\vxtswl5yu2-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\mvpytxmq9u-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\tb4t77humz-{0}-c2oey78nd0-c2oey78nd0.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\6qooe2t9ae-{0}-tdbxkamptv-tdbxkamptv.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\a45pzs2k3g-{0}-j5mq2jizvt-j5mq2jizvt.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\ztt88f8x6g-{0}-06098lyss8-06098lyss8.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\ggane5hjyq-{0}-nvvlpmu67g-nvvlpmu67g.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\o2035680en-{0}-s35ty4nyc5-s35ty4nyc5.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\mcr9tyt2t4-{0}-pj5nd1wqec-pj5nd1wqec.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\kbmds34jhw-{0}-46ein0sx1k-46ein0sx1k.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\7ydwfg00s6-{0}-v0zj4ognzu-v0zj4ognzu.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\6op4v64fcz-{0}-37tfw0ft22-37tfw0ft22.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\1ffad6i2h4-{0}-hrwsygsryq-hrwsygsryq.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\zbu9c4i4nq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\do4eow8ci7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\y8sh5g253r-{0}-6cfz1n2cew-6cfz1n2cew.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\0v7gjjdwuk-{0}-6pdc2jztkx-6pdc2jztkx.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\e47k9mb9nb-{0}-493y06b0oq-493y06b0oq.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\vesdvmqns6-{0}-iovd86k7lj-iovd86k7lj.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\hwlwbf7dap-{0}-vr1egmr9el-vr1egmr9el.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\q0k3i78zdl-{0}-kbrnm935zg-kbrnm935zg.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\g68cmk9yb0-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\qtumu7z5oa-{0}-y7v9cxd14o-y7v9cxd14o.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\yanv4blrlt-{0}-notf2xhcfb-notf2xhcfb.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\lqnkklbc6m-{0}-h1s4sie4z3-h1s4sie4z3.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\vl0pn5yn8z-{0}-63fj8s7r0e-63fj8s7r0e.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\zh5rnirozm-{0}-0j3bgjxly4-0j3bgjxly4.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\dnkw35ezqp-{0}-47otxtyo56-47otxtyo56.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\2poxg1fp5c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\fpaqnf3yuh-{0}-356vix0kms-356vix0kms.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\m6aw8w3jv4-{0}-83jwlth58m-83jwlth58m.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\s9njg34ftx-{0}-mrlpezrjn3-mrlpezrjn3.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\aopncpt720-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\d0buidjcfe-{0}-ag7o75518u-ag7o75518u.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\1ygv93rtse-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\z4ogoizx9o-{0}-0i3buxo5is-0i3buxo5is.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\g7yy9k8wee-{0}-o1o13a6vjx-o1o13a6vjx.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\iygswuu072-{0}-ttgo8qnofa-ttgo8qnofa.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\9m0cdfohjj-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\q4depwyguq-{0}-muycvpuwrr-muycvpuwrr.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\vc29n2kau0-{0}-87fc7y1x7t-87fc7y1x7t.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\v8ojfrf085-{0}-mlv21k5csn-mlv21k5csn.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\jbppunpgto-{0}-6ng0he18l7-6ng0he18l7.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\compressed\0bpstnb1eu-{0}-6ng0he18l7-6ng0he18l7.gz
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\staticwebassets.build.json
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\staticwebassets.build.json.cache
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\staticwebassets.development.json
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\swae.build.ex.cache
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.dll
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\refint\DiscordClone.dll
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.pdb
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\DiscordClone.genruntimeconfig.cache
+e:\School\CSCapstone\New folder\DiscordClone\obj\Debug\net10.0\ref\DiscordClone.dll
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\appsettings.Development.json
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\appsettings.json
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\DiscordClone.staticwebassets.endpoints.json
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\DiscordClone.staticwebassets.runtime.json
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\DiscordClone.exe
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\DiscordClone.deps.json
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\DiscordClone.runtimeconfig.json
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\DiscordClone.dll
+e:\School\CSCapstone\CSProject\DiscordClone\bin\Debug\net10.0\DiscordClone.pdb
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\rpswa.dswa.cache.json
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.GeneratedMSBuildEditorConfig.editorconfig
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.AssemblyInfoInputs.cache
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.AssemblyInfo.cs
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.csproj.CoreCompileInputs.cache
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.MvcApplicationPartsAssemblyInfo.cache
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.RazorAssemblyInfo.cache
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.RazorAssemblyInfo.cs
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.sourcelink.json
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\rjimswa.dswa.cache.json
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\scopedcss\bundle\DiscordClone.styles.css
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\scopedcss\projectbundle\DiscordClone.bundle.scp.css
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\3bgw2r2xhy-{0}-b9sayid5wm-b9sayid5wm.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\a98l2s7gio-{0}-61n19gt1b8-61n19gt1b8.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\jwaezel95b-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\hjx2nwmemv-{0}-bqjiyaj88i-bqjiyaj88i.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\f3tdgy06mm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\kg7o6p3kg8-{0}-erw9l3u2r3-erw9l3u2r3.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\rm3499gmg8-{0}-aexeepp0ev-aexeepp0ev.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\d9cdx33rtv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\3e8zah4qav-{0}-ausgxo2sd3-ausgxo2sd3.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\4j4qmqkzq4-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\dqlteplpb9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\u58thwy7jp-{0}-ub07r2b239-ub07r2b239.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\f3xzm0anpy-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\5ehlrsazf3-{0}-b7pk76d08c-b7pk76d08c.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\dw614759oh-{0}-fsbi9cje9m-fsbi9cje9m.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\f2ms5dt8f1-{0}-rzd6atqjts-rzd6atqjts.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\bi49db14dy-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\3qljxyp3rf-{0}-dxx9fxp4il-dxx9fxp4il.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\fc9q16rn19-{0}-jd9uben2k1-jd9uben2k1.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\77wwsxdam0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\vxtswl5yu2-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\mvpytxmq9u-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\tb4t77humz-{0}-c2oey78nd0-c2oey78nd0.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\6qooe2t9ae-{0}-tdbxkamptv-tdbxkamptv.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\a45pzs2k3g-{0}-j5mq2jizvt-j5mq2jizvt.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\ztt88f8x6g-{0}-06098lyss8-06098lyss8.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\ggane5hjyq-{0}-nvvlpmu67g-nvvlpmu67g.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\o2035680en-{0}-s35ty4nyc5-s35ty4nyc5.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\mcr9tyt2t4-{0}-pj5nd1wqec-pj5nd1wqec.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\kbmds34jhw-{0}-46ein0sx1k-46ein0sx1k.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\7ydwfg00s6-{0}-v0zj4ognzu-v0zj4ognzu.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\6op4v64fcz-{0}-37tfw0ft22-37tfw0ft22.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\1ffad6i2h4-{0}-hrwsygsryq-hrwsygsryq.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\zbu9c4i4nq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\do4eow8ci7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\y8sh5g253r-{0}-6cfz1n2cew-6cfz1n2cew.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\0v7gjjdwuk-{0}-6pdc2jztkx-6pdc2jztkx.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\e47k9mb9nb-{0}-493y06b0oq-493y06b0oq.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\vesdvmqns6-{0}-iovd86k7lj-iovd86k7lj.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\hwlwbf7dap-{0}-vr1egmr9el-vr1egmr9el.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\q0k3i78zdl-{0}-kbrnm935zg-kbrnm935zg.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\g68cmk9yb0-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\qtumu7z5oa-{0}-y7v9cxd14o-y7v9cxd14o.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\yanv4blrlt-{0}-notf2xhcfb-notf2xhcfb.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\lqnkklbc6m-{0}-h1s4sie4z3-h1s4sie4z3.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\vl0pn5yn8z-{0}-63fj8s7r0e-63fj8s7r0e.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\zh5rnirozm-{0}-0j3bgjxly4-0j3bgjxly4.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\dnkw35ezqp-{0}-47otxtyo56-47otxtyo56.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\2poxg1fp5c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\fpaqnf3yuh-{0}-356vix0kms-356vix0kms.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\m6aw8w3jv4-{0}-83jwlth58m-83jwlth58m.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\s9njg34ftx-{0}-mrlpezrjn3-mrlpezrjn3.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\aopncpt720-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\d0buidjcfe-{0}-ag7o75518u-ag7o75518u.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\1ygv93rtse-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\z4ogoizx9o-{0}-0i3buxo5is-0i3buxo5is.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\g7yy9k8wee-{0}-o1o13a6vjx-o1o13a6vjx.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\iygswuu072-{0}-ttgo8qnofa-ttgo8qnofa.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\9m0cdfohjj-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\q4depwyguq-{0}-muycvpuwrr-muycvpuwrr.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\vc29n2kau0-{0}-87fc7y1x7t-87fc7y1x7t.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\v8ojfrf085-{0}-mlv21k5csn-mlv21k5csn.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\jbppunpgto-{0}-6ng0he18l7-6ng0he18l7.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\compressed\0bpstnb1eu-{0}-6ng0he18l7-6ng0he18l7.gz
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\staticwebassets.build.json
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\staticwebassets.build.json.cache
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\staticwebassets.development.json
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\swae.build.ex.cache
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.dll
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\refint\DiscordClone.dll
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.pdb
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\DiscordClone.genruntimeconfig.cache
+e:\School\CSCapstone\CSProject\DiscordClone\obj\Debug\net10.0\ref\DiscordClone.dll
