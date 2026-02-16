@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscordClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+500c24f2f730f76e743894557aff40c9728bd3fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bc70dead6825e566a41bd808c59ea1ca34d1f66")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscordClone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscordClone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

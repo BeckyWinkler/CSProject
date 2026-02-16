@@ -1,8 +1,11 @@
+using System.Reflection.Metadata;
+
 public class Msg
 {
     private static int _counter = 0;
     public int ID {get;}
     public string Content {get;set;}
+    public User user {get; set;}
 
     public Msg(string c)
     {

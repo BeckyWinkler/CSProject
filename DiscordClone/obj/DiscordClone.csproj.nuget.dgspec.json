@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj": {}
+    "E:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj": {}
   },
   "projects": {
-    "e:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj": {
+    "E:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj",
+        "projectUniqueName": "E:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj",
         "projectName": "DiscordClone",
-        "projectPath": "e:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj",
+        "projectPath": "E:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj",
         "packagesPath": "C:\\Users\\Becky\\.nuget\\packages\\",
-        "outputPath": "e:\\School\\CSCapstone\\CSProject\\DiscordClone\\obj\\",
+        "outputPath": "E:\\School\\CSCapstone\\CSProject\\DiscordClone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Becky\\AppData\\Roaming\\NuGet\\NuGet.Config"
