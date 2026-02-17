@@ -1,4 +1,20 @@
+using Microsoft.EntityFrameworkCore;
+using Npgsql.EntityFrameworkCore.PostgreSQL;
+
 var builder = WebApplication.CreateBuilder(args);
+
+//CODE FOR DB CONNECTION ATTEMPT
+////
+
+// Add services to the container.
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>options.UseNpgsql(connectionString)); // Use Npgsql here
+
+///
+/// 
+/// 
+/// 
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
