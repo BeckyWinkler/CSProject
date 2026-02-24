@@ -1,22 +1,24 @@
+@model AppUser;
+@using Microsoft.EntityFrameworkCore.Infrastructure;
 @{
     ViewData["Title"] = "Sign Up";
 }
 
 <div class="text-center">
     <h1 class="display-4">Sign Up</h1>
-    <form action="/Account/Login" method="post">
-        <div>
-            <label for="username">Username:</label>
-            <input type="text" id="username" name="username" required/>
+    <form asp-controller="Account" asp-action="SignUp" method="post">
+        <div class="form-group">
+            <label asp-for="UserName">Username:</label>
+            <input asp-for="UserName" class="form-control" type="text" required/>
         </div>
-        <div>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required />
+        <div class="form-group">
+            <label asp-for="Email">Email:</label>
+            <input asp-for="Email" class="form-control" type="email" required />
         </div>
-        <div>
-            <label for="passord">Password:</label>
-            <input type="password" id="password" name="password" required />
+        <div class="form-group">
+            <label asp-for="UserPassword">Password:</label>
+            <input asp-for="UserPassword" class="form-control" type="password" required />
         </div>
-        <button type="submit">Login</button>
+        <button type="submit">Sign Up</button>
     </form>
 </div>
