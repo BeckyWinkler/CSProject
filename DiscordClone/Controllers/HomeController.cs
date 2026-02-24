@@ -6,7 +6,7 @@ namespace DiscordClone.Controllers;
 
 public class HomeController : Controller
 {
-   /*  private readonly ApplicationDbContext _context;
+     private readonly ApplicationDbContext _context;
 
     public HomeController(ApplicationDbContext context)
     {
@@ -17,12 +17,15 @@ public class HomeController : Controller
     {
         // Example: retrieve data from the database
         // var users = _context.Users.ToList(); 
-        return View();
-    } */
-    public IActionResult Index()
-    {
-        return View();
-    }
+        List<AppUser> CurrentUsers = _context.AppUsers.ToList();
+        return View(CurrentUsers);
+    } 
+
+
+    //public IActionResult Index()
+    //{
+      //  return View();
+    //}
 
     public IActionResult Privacy()
     {

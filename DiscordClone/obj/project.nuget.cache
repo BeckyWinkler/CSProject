@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A6XbFczcXQM=",
+  "dgSpecHash": "oz5vkM6m1fE=",
   "success": true,
-  "projectFilePath": "E:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj",
+  "projectFilePath": "e:\\School\\CSCapstone\\CSProject\\DiscordClone\\DiscordClone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Becky\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Becky\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
