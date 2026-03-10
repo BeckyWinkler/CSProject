@@ -1,16 +1,17 @@
+
 @{
     ViewData["Title"] = "Login";
 }
 
 <div class="text-center">
     <h1 class="display-4">Login</h1>
-    <form action="/" method="post">
+    <form asp-controller="Account" asp-action="Login" method="post">
         <div>
-            <label for="username">Username:</label>
+            <label for="userName">Username:</label>
             <input type="text" id="username" name="username" required/>
         </div>
         <div>
-            <label for="passord">Password:</label>
+            <label for="userPassord">Password:</label>
             <input type="password" id="passord" name="password" required />
         </div>
         <button type="submit">Login</button>

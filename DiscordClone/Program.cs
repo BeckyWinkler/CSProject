@@ -3,18 +3,27 @@ using Npgsql.EntityFrameworkCore.PostgreSQL;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//CODE FOR DB CONNECTION ATTEMPT
-////
+//Add Session and Memory Cache
+//
+//
+//
+//
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); //Keep user logged in for 30 mins of doing nothing
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+}
+);
+
+
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-builder.Services.AddDbContext<ApplicationDbContext>(options =>options.UseNpgsql(connectionString)); // Use Npgsql here
+builder.Services.AddDbContext<ApplicationDbContext>(options =>options.UseNpgsql(connectionString));
 
-///
-/// 
-/// 
-/// 
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -35,6 +44,12 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapStaticAssets();
+
+//Enable session middleware
+//
+//
+//
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",

@@ -1,7 +1,9 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.SignalR;
 using Microsoft.Net.Http.Headers;
 
+[Table("app_user")]
 public class AppUser
 {
     [Key]

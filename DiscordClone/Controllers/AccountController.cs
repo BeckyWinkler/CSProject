@@ -15,9 +15,35 @@ public class AccountController : Controller
         _context = context;
     }
 
+    //display login form
+    [HttpGet]
     public IActionResult Login()
     {
         return View();
+    }
+
+    //Log user in
+    [HttpPost]
+    public IActionResult Login(string userName, string userPassword)
+    {
+        var user = _context.AppUsers.FirstOrDefault(u => u.UserName == userName && u.UserPassword == userPassword);
+
+        if(user != null)
+        {
+            HttpContext.Session.SetInt32("UserID", user.UserID);
+            HttpContext.Session.SetString("UserName", user.UserName);
+
+            return RedirectToAction("Index");
+        }
+        return View();
+    }
+
+    //Log User Out
+    [HttpGet]
+    public IActionResult Logout()
+    {
+        HttpContext.Session.Clear(); 
+        return RedirectToAction("Login");
     }
 
     //display sign up form
