@@ -1,4 +1,4 @@
-
+@model AppUser;
 @{
     ViewData["Title"] = "Login";
 }
@@ -7,12 +7,12 @@
     <h1 class="display-4">Login</h1>
     <form asp-controller="Account" asp-action="Login" method="post">
         <div>
-            <label for="userName">Username:</label>
-            <input type="text" id="username" name="username" required/>
+            <label asp-for="UserName">Username:</label>
+            <input asp-for="UserName" class="form-control" type="text" required/>
         </div>
         <div>
-            <label for="userPassord">Password:</label>
-            <input type="password" id="passord" name="password" required />
+            <label asp-for="UserPassword">Password:</label>
+            <input asp-for="UserPassword" class="form-control" type="password" required />
         </div>
         <button type="submit">Login</button>
     </form>

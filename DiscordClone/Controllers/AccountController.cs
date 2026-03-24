@@ -33,7 +33,7 @@ public class AccountController : Controller
             HttpContext.Session.SetInt32("UserID", user.UserID);
             HttpContext.Session.SetString("UserName", user.UserName);
 
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", "Home");
         }
         return View();
     }
